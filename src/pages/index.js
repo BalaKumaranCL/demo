@@ -109,10 +109,11 @@ function SignIn() {
   );
 }
 const Home = () => (
-  <div style={{height:'100vh'}}>
+  <div style={{height:'100vh', background:'white'}}>
     <Navbar />
     <h1>Home Page</h1>
     <SignIn/>
+    <img src='../../public/freshness-beauty-nature-wet-drops-generated-by-ai.jpg'/>
   </div>
 );
 
