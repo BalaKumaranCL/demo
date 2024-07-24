@@ -113,7 +113,7 @@ const Home = () => (
     <Navbar />
     <h1>Home Page</h1>
     <SignIn/>
-    <img src='../../public/freshness-beauty-nature-wet-drops-generated-by-ai.jpg'/>
+    <img src='/freshness-beauty-nature-wet-drops-generated-by-ai.jpg'/>
   </div>
 );
 
