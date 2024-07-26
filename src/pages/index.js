@@ -116,7 +116,6 @@ const Home = () => (
     <Navbar />
     <h1>Home Page</h1>
     <SignIn/>
-    <img src='/freshness-beauty-nature-wet-drops-generated-by-ai.jpg'/>
   </div>
 );
 
