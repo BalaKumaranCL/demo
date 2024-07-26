@@ -53,6 +53,9 @@ function SignIn() {
           <Avatar sx={{ m: 1, bgcolor: 'secondary.main' }}>
             dsf
           </Avatar>
+              <p class="underline capitalize hover:underline-offset-4">
+  dsfdsfds
+</p>
           <Typography component="h1" variant="h5">
             Sign in
           </Typography>
